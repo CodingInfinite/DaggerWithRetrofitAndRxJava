@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerWithRetrofitAndRxJava</string>
+    <string name="base_fare">Base Fare :</string>
+    <string name="rate_par_km">Rate Per Km :</string>
+    <string name="rate_par_min">Rate Per Min :</string>
+    <string name="car_category">Car Category :</string>
+</resources>
